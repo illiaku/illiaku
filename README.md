@@ -43,7 +43,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=springboot" width="48" height="48" alt="SpringBoot" />
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="SpringBoot" />
       <br>SpringBoot
     </td>
     <td align="center" width="96">
@@ -51,7 +51,7 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
