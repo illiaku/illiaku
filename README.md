@@ -25,29 +25,29 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="SpringBoot" />
+      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="SpringBoot" />
       <br>SpringBoot
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -55,23 +55,23 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MaterialUI" />
+      <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="MaterialUI" />
       <br>MaterialUI
     </td>
   </tr>
