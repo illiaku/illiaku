@@ -5,6 +5,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
@@ -17,7 +21,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=csharp" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=c#" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
